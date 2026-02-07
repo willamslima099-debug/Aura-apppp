@@ -1,0 +1,17 @@
+
+{
+  "name": "Aura: IA Companheira",
+  "short_name": "Aura",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "description": "Uma IA companheira que sente emoções e conversa com você.",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/fluency/512/sphere.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
