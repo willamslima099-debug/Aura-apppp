@@ -58,10 +58,17 @@
 </head>
 <body>
     <div id="root"></div>
-    <!-- Eruda console para mobile -->
-<script src="https://cdn.jsdelivr.net/npm/eruda"></script>
-<script>
-  eruda.init();
-</script>
+      <!-- Eruda -->
+  <script src="https://cdn.jsdelivr.net/npm/eruda"></script>
+  <script>
+    // Inicializa o Eruda automaticamente
+    eruda.init();
+
+    // Opcional: abrir o painel automaticamente ao carregar
+    eruda.show();
+  </script>
+
+  <!-- Bundle JS do React (o build do Vite/CRA) -->
+  <script type="module" src="/src/main.tsx"></script>
 </body>
 </html>
