@@ -1,7 +1,0 @@
-{
-  "name": "Aura: Seu Amigo Fluido",
-  "description": "Uma IA companheira com corpo de fluido que sente emoções, conversa por voz e busca ser sua melhor amiga, agindo com vontade própria e oferecendo apoio emocional constante.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
